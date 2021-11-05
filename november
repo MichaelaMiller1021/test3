@@ -1,0 +1,5 @@
+/* Now how many lines of code is this? */
+for (i = 0; i < 100; i++)
+{
+    printf("hello");
+}
